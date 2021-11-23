@@ -1,0 +1,12 @@
+{
+    "name": "nodejs-app",
+    "version": "1.0.0",
+    "description": "OpenShift route path test",
+    "main": "server.js",
+    "author": "Ahmed Shendy",
+    "license": "ASL",
+    "dependencies": {
+      "express": "4.20",
+      "html-errors": "latest"
+    }
+  }
