@@ -6,7 +6,8 @@
     "author": "Ahmed Shendy",
     "license": "ASL",
     "dependencies": {
-      "express": "4.x",
-      "html-errors": "latest"
+        "express": "4.x",
+        "html-errors": "latest",
+        "http-error": "^0.0.6"
     }
-  }
+}
